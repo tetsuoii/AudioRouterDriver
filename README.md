@@ -25,4 +25,4 @@ Virtual audio device for routing audio to multiple output devices
 	
 	https://github.com/Microsoft/Windows-driver-samples.git
 	
-	Hent eksemplene, lokaliser msvad og kopier det inn i vårt prosjekt.
+	Hent eksemplene, lokaliser sysvad og kopier innholdet inn i vårt prosjekt.
