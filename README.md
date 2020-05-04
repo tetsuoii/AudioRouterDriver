@@ -7,7 +7,7 @@ Virtual audio device for routing audio to multiple output devices
 	
 	Vi trenger WDK (Windows Driver Kit), ikke DDK som jeg sa.
 	
-	Det finnes et eksemepel som heter msvad (Microsoft Virtual
+	Det finnes et eksempel som heter msvad (Microsoft Virtual
 	Audio Driver) som vi kan bruke som utgangspunkt. Først må vi
 	kompilere denne og se at den installerer i kontrollpanelet.
 	
